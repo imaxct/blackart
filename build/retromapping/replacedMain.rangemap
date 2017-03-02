@@ -1,0 +1,273 @@
+Symbol range map extraction starting
+Processing 10 files
+processing me/maxct/blackart/BlackArt.java
+@|me/maxct/blackart/BlackArt.java|8|25|me.maxct.blackart|package|me.maxct.blackart|(file)
+Class Start: me.maxct.blackart.BlackArt
+   @|me/maxct/blackart/BlackArt.java|606|612|String|class|java.lang.String
+   @|me/maxct/blackart/BlackArt.java|613|618|MODID|field|me.maxct.blackart.BlackArt|MODID|
+   @|me/maxct/blackart/BlackArt.java|657|663|String|class|java.lang.String
+   @|me/maxct/blackart/BlackArt.java|664|668|NAME|field|me.maxct.blackart.BlackArt|NAME|
+   @|me/maxct/blackart/BlackArt.java|708|714|String|class|java.lang.String
+   @|me/maxct/blackart/BlackArt.java|715|722|VERSION|field|me.maxct.blackart.BlackArt|VERSION|
+   @|me/maxct/blackart/BlackArt.java|785|793|BlackArt|class|me.maxct.blackart.BlackArt
+   @|me/maxct/blackart/BlackArt.java|794|802|instance|field|me.maxct.blackart.BlackArt|instance|
+   @|me/maxct/blackart/BlackArt.java|950|961|CommonProxy|class|me.maxct.blackart.common.CommonProxy
+   @|me/maxct/blackart/BlackArt.java|962|967|proxy|field|me.maxct.blackart.BlackArt|proxy|
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me/maxct/blackart/BlackArt.java|1104|1111|preInit|method|me.maxct.blackart.BlackArt|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me/maxct/blackart/BlackArt.java|1112|1137|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|me/maxct/blackart/BlackArt.java|1138|1143|event|param|me.maxct.blackart.BlackArt|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|me/maxct/blackart/BlackArt.java|1154|1159|proxy|field|me.maxct.blackart.BlackArt|proxy
+      @|me/maxct/blackart/BlackArt.java|1160|1167|preInit|method|me.maxct.blackart.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me/maxct/blackart/BlackArt.java|1168|1173|event|param|me.maxct.blackart.BlackArt|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|me/maxct/blackart/BlackArt.java|1318|1322|init|method|me.maxct.blackart.BlackArt|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|me/maxct/blackart/BlackArt.java|1323|1345|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|me/maxct/blackart/BlackArt.java|1346|1351|event|param|me.maxct.blackart.BlackArt|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|me/maxct/blackart/BlackArt.java|1362|1367|proxy|field|me.maxct.blackart.BlackArt|proxy
+      @|me/maxct/blackart/BlackArt.java|1368|1372|init|method|me.maxct.blackart.common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|me/maxct/blackart/BlackArt.java|1373|1378|event|param|me.maxct.blackart.BlackArt|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|me/maxct/blackart/BlackArt.java|1497|1505|postInit|method|me.maxct.blackart.BlackArt|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|me/maxct/blackart/BlackArt.java|1506|1532|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+      @|me/maxct/blackart/BlackArt.java|1533|1538|event|param|me.maxct.blackart.BlackArt|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|me/maxct/blackart/BlackArt.java|1549|1554|proxy|field|me.maxct.blackart.BlackArt|proxy
+      @|me/maxct/blackart/BlackArt.java|1555|1563|postInit|method|me.maxct.blackart.common.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|me/maxct/blackart/BlackArt.java|1564|1569|event|param|me.maxct.blackart.BlackArt|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : me.maxct.blackart.BlackArt
+endProcessing me/maxct/blackart/BlackArt.java
+
+processing me/maxct/blackart/block/BlockExpOre.java
+@|me/maxct/blackart/block/BlockExpOre.java|8|31|me.maxct.blackart.block|package|me.maxct.blackart.block|(file)
+Class Start: me.maxct.blackart.block.BlockExpOre
+   Method Start: BlockExpOre()V
+      @|me/maxct/blackart/block/BlockExpOre.java|276|287|BlockExpOre|method|me.maxct.blackart.block.BlockExpOre|BlockExpOre|()V
+      @|me/maxct/blackart/block/BlockExpOre.java|305|313|Material|class|net.minecraft.block.material.Material
+      @|me/maxct/blackart/block/BlockExpOre.java|314|318|rock|field|net.minecraft.block.material.Material|rock
+      @|me/maxct/blackart/block/BlockExpOre.java|334|352|setUnlocalizedName|method|net.minecraft.block.Block|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+      @|me/maxct/blackart/block/BlockExpOre.java|377|388|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+      @|me/maxct/blackart/block/BlockExpOre.java|407|419|setStepSound|method|net.minecraft.block.Block|setStepSound|(Lnet/minecraft/block/Block$SoundType;)Lnet/minecraft/block/Block;
+      @|me/maxct/blackart/block/BlockExpOre.java|420|434|soundTypeStone|field|net.minecraft.block.Block|soundTypeStone
+      @|me/maxct/blackart/block/BlockExpOre.java|450|464|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+      @|me/maxct/blackart/block/BlockExpOre.java|465|483|CreativeTabsLoader|class|me.maxct.blackart.creativetab.CreativeTabsLoader
+      @|me/maxct/blackart/block/BlockExpOre.java|484|495|tabBlackart|field|me.maxct.blackart.creativetab.CreativeTabsLoader|tabBlackart
+   Method End: BlockExpOre()V
+Class End  : me.maxct.blackart.block.BlockExpOre
+endProcessing me/maxct/blackart/block/BlockExpOre.java
+
+processing me/maxct/blackart/block/BlockLoader.java
+@|me/maxct/blackart/block/BlockLoader.java|8|31|me.maxct.blackart.block|package|me.maxct.blackart.block|(file)
+Class Start: me.maxct.blackart.block.BlockLoader
+   @|me/maxct/blackart/block/BlockLoader.java|610|621|BlockExpOre|class|me.maxct.blackart.block.BlockExpOre
+   @|me/maxct/blackart/block/BlockLoader.java|622|628|expOre|field|me.maxct.blackart.block.BlockLoader|expOre|
+   @|me/maxct/blackart/block/BlockLoader.java|635|646|BlockExpOre|class|me.maxct.blackart.block.BlockExpOre
+   Method Start: BlockLoader(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me/maxct/blackart/block/BlockLoader.java|662|673|BlockLoader|method|me.maxct.blackart.block.BlockLoader|BlockLoader|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me/maxct/blackart/block/BlockLoader.java|674|699|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|me/maxct/blackart/block/BlockLoader.java|700|705|event|param|me.maxct.blackart.block.BlockLoader|BlockLoader|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|me/maxct/blackart/block/BlockLoader.java|716|724|register|method|me.maxct.blackart.block.BlockLoader|register|(Lnet/minecraft/block/Block;Ljava/lang/String;)V
+      @|me/maxct/blackart/block/BlockLoader.java|725|731|expOre|field|me.maxct.blackart.block.BlockLoader|expOre
+   Method End: BlockLoader(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: registerRenders()V
+      @|me/maxct/blackart/block/BlockLoader.java|802|817|registerRenders|method|me.maxct.blackart.block.BlockLoader|registerRenders|()V
+      @|me/maxct/blackart/block/BlockLoader.java|829|843|registerRender|method|me.maxct.blackart.block.BlockLoader|registerRender|(Lnet/minecraft/block/Block;)V
+      @|me/maxct/blackart/block/BlockLoader.java|844|850|expOre|field|me.maxct.blackart.block.BlockLoader|expOre
+   Method End: registerRenders()V
+   Method Start: register(Lnet/minecraft/block/Block;Ljava/lang/String;)V
+      @|me/maxct/blackart/block/BlockLoader.java|884|892|register|method|me.maxct.blackart.block.BlockLoader|register|(Lnet/minecraft/block/Block;Ljava/lang/String;)V
+      @|me/maxct/blackart/block/BlockLoader.java|893|898|Block|class|net.minecraft.block.Block
+      @|me/maxct/blackart/block/BlockLoader.java|899|904|block|param|me.maxct.blackart.block.BlockLoader|register|(Lnet/minecraft/block/Block;Ljava/lang/String;)V|block|0
+      @|me/maxct/blackart/block/BlockLoader.java|906|912|String|class|java.lang.String
+      @|me/maxct/blackart/block/BlockLoader.java|913|917|name|param|me.maxct.blackart.block.BlockLoader|register|(Lnet/minecraft/block/Block;Ljava/lang/String;)V|name|1
+      @|me/maxct/blackart/block/BlockLoader.java|928|940|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|me/maxct/blackart/block/BlockLoader.java|941|954|registerBlock|method|net.minecraftforge.fml.common.registry.GameRegistry|registerBlock|(Lnet/minecraft/block/Block;Ljava/lang/String;)Lnet/minecraft/block/Block;
+      @|me/maxct/blackart/block/BlockLoader.java|955|960|block|param|me.maxct.blackart.block.BlockLoader|register|(Lnet/minecraft/block/Block;Ljava/lang/String;)V|block|0
+      @|me/maxct/blackart/block/BlockLoader.java|962|966|name|param|me.maxct.blackart.block.BlockLoader|register|(Lnet/minecraft/block/Block;Ljava/lang/String;)V|name|1
+   Method End: register(Lnet/minecraft/block/Block;Ljava/lang/String;)V
+   Method Start: registerRender(Lnet/minecraft/block/Block;)V
+      @|me/maxct/blackart/block/BlockLoader.java|1027|1041|registerRender|method|me.maxct.blackart.block.BlockLoader|registerRender|(Lnet/minecraft/block/Block;)V
+      @|me/maxct/blackart/block/BlockLoader.java|1042|1047|Block|class|net.minecraft.block.Block
+      @|me/maxct/blackart/block/BlockLoader.java|1048|1053|block|param|me.maxct.blackart.block.BlockLoader|registerRender|(Lnet/minecraft/block/Block;)V|block|0
+      @|me/maxct/blackart/block/BlockLoader.java|1064|1068|Item|class|net.minecraft.item.Item
+      @|me/maxct/blackart/block/BlockLoader.java|1076|1080|Item|class|net.minecraft.item.Item
+      @|me/maxct/blackart/block/BlockLoader.java|1081|1097|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+      @|me/maxct/blackart/block/BlockLoader.java|1098|1103|block|param|me.maxct.blackart.block.BlockLoader|registerRender|(Lnet/minecraft/block/Block;)V|block|0
+      @|me/maxct/blackart/block/BlockLoader.java|1114|1120|String|class|java.lang.String
+      @|me/maxct/blackart/block/BlockLoader.java|1128|1136|GameData|class|net.minecraftforge.fml.common.registry.GameData
+      @|me/maxct/blackart/block/BlockLoader.java|1137|1153|getBlockRegistry|method|net.minecraftforge.fml.common.registry.GameData|getBlockRegistry|()Lnet/minecraftforge/fml/common/registry/FMLControlledNamespacedRegistry;
+      @|me/maxct/blackart/block/BlockLoader.java|1156|1172|getNameForObject|method|net.minecraft.util.RegistryNamespaced|getNameForObject|(Ljava/lang/Object;)Ljava/lang/Object;
+      @|me/maxct/blackart/block/BlockLoader.java|1173|1178|block|param|me.maxct.blackart.block.BlockLoader|registerRender|(Lnet/minecraft/block/Block;)V|block|0
+      @|me/maxct/blackart/block/BlockLoader.java|1180|1188|toString|method|java.lang.Object|toString|()Ljava/lang/String;
+      @|me/maxct/blackart/block/BlockLoader.java|1200|1211|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|me/maxct/blackart/block/BlockLoader.java|1212|1242|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/resources/model/ModelResourceLocation;)V
+      @|me/maxct/blackart/block/BlockLoader.java|1256|1277|ModelResourceLocation|class|net.minecraft.client.resources.model.ModelResourceLocation
+   Method End: registerRender(Lnet/minecraft/block/Block;)V
+Class End  : me.maxct.blackart.block.BlockLoader
+endProcessing me/maxct/blackart/block/BlockLoader.java
+
+processing me/maxct/blackart/client/ClientProxy.java
+@|me/maxct/blackart/client/ClientProxy.java|8|32|me.maxct.blackart.client|package|me.maxct.blackart.client|(file)
+Class Start: me.maxct.blackart.client.ClientProxy
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me/maxct/blackart/client/ClientProxy.java|423|430|preInit|method|me.maxct.blackart.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me/maxct/blackart/client/ClientProxy.java|431|456|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|me/maxct/blackart/client/ClientProxy.java|457|462|event|param|me.maxct.blackart.client.ClientProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|me/maxct/blackart/client/ClientProxy.java|480|487|preInit|method|me.maxct.blackart.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me/maxct/blackart/client/ClientProxy.java|488|493|event|param|me.maxct.blackart.client.ClientProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|me/maxct/blackart/client/ClientProxy.java|508|524|ItemRenderLoader|class|me.maxct.blackart.client.ItemRenderLoader
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|me/maxct/blackart/client/ClientProxy.java|565|569|init|method|me.maxct.blackart.common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|me/maxct/blackart/client/ClientProxy.java|570|592|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|me/maxct/blackart/client/ClientProxy.java|593|598|event|param|me.maxct.blackart.client.ClientProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|me/maxct/blackart/client/ClientProxy.java|616|620|init|method|me.maxct.blackart.common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|me/maxct/blackart/client/ClientProxy.java|621|626|event|param|me.maxct.blackart.client.ClientProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|me/maxct/blackart/client/ClientProxy.java|666|674|postInit|method|me.maxct.blackart.common.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|me/maxct/blackart/client/ClientProxy.java|675|701|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+      @|me/maxct/blackart/client/ClientProxy.java|702|707|event|param|me.maxct.blackart.client.ClientProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|me/maxct/blackart/client/ClientProxy.java|725|733|postInit|method|me.maxct.blackart.common.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|me/maxct/blackart/client/ClientProxy.java|734|739|event|param|me.maxct.blackart.client.ClientProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : me.maxct.blackart.client.ClientProxy
+endProcessing me/maxct/blackart/client/ClientProxy.java
+
+processing me/maxct/blackart/client/ItemRenderLoader.java
+@|me/maxct/blackart/client/ItemRenderLoader.java|8|32|me.maxct.blackart.client|package|me.maxct.blackart.client|(file)
+Class Start: me.maxct.blackart.client.ItemRenderLoader
+   Method Start: ItemRenderLoader()V
+      @|me/maxct/blackart/client/ItemRenderLoader.java|229|245|ItemRenderLoader|method|me.maxct.blackart.client.ItemRenderLoader|ItemRenderLoader|()V
+      @|me/maxct/blackart/client/ItemRenderLoader.java|257|267|ItemLoader|class|me.maxct.blackart.item.ItemLoader
+      @|me/maxct/blackart/client/ItemRenderLoader.java|268|283|registerRenders|method|me.maxct.blackart.item.ItemLoader|registerRenders|()V
+      @|me/maxct/blackart/client/ItemRenderLoader.java|295|306|BlockLoader|class|me.maxct.blackart.block.BlockLoader
+      @|me/maxct/blackart/client/ItemRenderLoader.java|307|322|registerRenders|method|me.maxct.blackart.block.BlockLoader|registerRenders|()V
+   Method End: ItemRenderLoader()V
+Class End  : me.maxct.blackart.client.ItemRenderLoader
+endProcessing me/maxct/blackart/client/ItemRenderLoader.java
+
+processing me/maxct/blackart/common/CommonProxy.java
+@|me/maxct/blackart/common/CommonProxy.java|8|32|me.maxct.blackart.common|package|me.maxct.blackart.common|(file)
+Class Start: me.maxct.blackart.common.CommonProxy
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me/maxct/blackart/common/CommonProxy.java|546|553|preInit|method|me.maxct.blackart.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me/maxct/blackart/common/CommonProxy.java|554|579|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|me/maxct/blackart/common/CommonProxy.java|580|585|event|param|me.maxct.blackart.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|me/maxct/blackart/common/CommonProxy.java|600|618|CreativeTabsLoader|class|me.maxct.blackart.creativetab.CreativeTabsLoader
+      @|me/maxct/blackart/common/CommonProxy.java|619|624|event|param|me.maxct.blackart.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|me/maxct/blackart/common/CommonProxy.java|639|649|ItemLoader|class|me.maxct.blackart.item.ItemLoader
+      @|me/maxct/blackart/common/CommonProxy.java|650|655|event|param|me.maxct.blackart.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|me/maxct/blackart/common/CommonProxy.java|670|681|BlockLoader|class|me.maxct.blackart.block.BlockLoader
+      @|me/maxct/blackart/common/CommonProxy.java|682|687|event|param|me.maxct.blackart.common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|me/maxct/blackart/common/CommonProxy.java|713|717|init|method|me.maxct.blackart.common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|me/maxct/blackart/common/CommonProxy.java|718|740|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|me/maxct/blackart/common/CommonProxy.java|741|746|event|param|me.maxct.blackart.common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|me/maxct/blackart/common/CommonProxy.java|773|781|postInit|method|me.maxct.blackart.common.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|me/maxct/blackart/common/CommonProxy.java|782|808|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+      @|me/maxct/blackart/common/CommonProxy.java|809|814|event|param|me.maxct.blackart.common.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : me.maxct.blackart.common.CommonProxy
+endProcessing me/maxct/blackart/common/CommonProxy.java
+
+processing me/maxct/blackart/creativetab/CreativeTabsBlackart.java
+@|me/maxct/blackart/creativetab/CreativeTabsBlackart.java|8|37|me.maxct.blackart.creativetab|package|me.maxct.blackart.creativetab|(file)
+Class Start: me.maxct.blackart.creativetab.CreativeTabsBlackart
+   Method Start: CreativeTabsBlackart()V
+      @|me/maxct/blackart/creativetab/CreativeTabsBlackart.java|336|356|CreativeTabsBlackart|method|me.maxct.blackart.creativetab.CreativeTabsBlackart|CreativeTabsBlackart|()V
+      @|me/maxct/blackart/creativetab/CreativeTabsBlackart.java|374|382|BlackArt|class|me.maxct.blackart.BlackArt
+      @|me/maxct/blackart/creativetab/CreativeTabsBlackart.java|383|388|MODID|field|me.maxct.blackart.BlackArt|MODID
+   Method End: CreativeTabsBlackart()V
+   Method Start: getTabIconItem()Lnet/minecraft/item/Item;
+      @|me/maxct/blackart/creativetab/CreativeTabsBlackart.java|428|442|getTabIconItem|method|net.minecraft.creativetab.CreativeTabs|getTabIconItem|()Lnet/minecraft/item/Item;
+      @|me/maxct/blackart/creativetab/CreativeTabsBlackart.java|423|427|Item|class|net.minecraft.item.Item
+      @|me/maxct/blackart/creativetab/CreativeTabsBlackart.java|462|472|ItemLoader|class|me.maxct.blackart.item.ItemLoader
+      @|me/maxct/blackart/creativetab/CreativeTabsBlackart.java|473|482|goldenEgg|field|me.maxct.blackart.item.ItemLoader|goldenEgg
+   Method End: getTabIconItem()Lnet/minecraft/item/Item;
+   Method Start: hasSearchBar()Z
+      @|me/maxct/blackart/creativetab/CreativeTabsBlackart.java|524|536|hasSearchBar|method|net.minecraft.creativetab.CreativeTabs|hasSearchBar|()Z
+   Method End: hasSearchBar()Z
+Class End  : me.maxct.blackart.creativetab.CreativeTabsBlackart
+endProcessing me/maxct/blackart/creativetab/CreativeTabsBlackart.java
+
+processing me/maxct/blackart/creativetab/CreativeTabsLoader.java
+@|me/maxct/blackart/creativetab/CreativeTabsLoader.java|8|37|me.maxct.blackart.creativetab|package|me.maxct.blackart.creativetab|(file)
+Class Start: me.maxct.blackart.creativetab.CreativeTabsLoader
+   @|me/maxct/blackart/creativetab/CreativeTabsLoader.java|251|263|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs
+   @|me/maxct/blackart/creativetab/CreativeTabsLoader.java|264|275|tabBlackart|field|me.maxct.blackart.creativetab.CreativeTabsLoader|tabBlackart|
+   Method Start: CreativeTabsLoader(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me/maxct/blackart/creativetab/CreativeTabsLoader.java|289|307|CreativeTabsLoader|method|me.maxct.blackart.creativetab.CreativeTabsLoader|CreativeTabsLoader|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me/maxct/blackart/creativetab/CreativeTabsLoader.java|308|333|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|me/maxct/blackart/creativetab/CreativeTabsLoader.java|334|339|event|param|me.maxct.blackart.creativetab.CreativeTabsLoader|CreativeTabsLoader|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|me/maxct/blackart/creativetab/CreativeTabsLoader.java|350|361|tabBlackart|field|me.maxct.blackart.creativetab.CreativeTabsLoader|tabBlackart
+      @|me/maxct/blackart/creativetab/CreativeTabsLoader.java|368|388|CreativeTabsBlackart|class|me.maxct.blackart.creativetab.CreativeTabsBlackart
+   Method End: CreativeTabsLoader(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+Class End  : me.maxct.blackart.creativetab.CreativeTabsLoader
+endProcessing me/maxct/blackart/creativetab/CreativeTabsLoader.java
+
+processing me/maxct/blackart/item/ItemGoldenEgg.java
+@|me/maxct/blackart/item/ItemGoldenEgg.java|8|30|me.maxct.blackart.item|package|me.maxct.blackart.item|(file)
+Class Start: me.maxct.blackart.item.ItemGoldenEgg
+   Method Start: ItemGoldenEgg()V
+      @|me/maxct/blackart/item/ItemGoldenEgg.java|217|230|ItemGoldenEgg|method|me.maxct.blackart.item.ItemGoldenEgg|ItemGoldenEgg|()V
+      @|me/maxct/blackart/item/ItemGoldenEgg.java|264|282|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|me/maxct/blackart/item/ItemGoldenEgg.java|310|324|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|me/maxct/blackart/item/ItemGoldenEgg.java|325|343|CreativeTabsLoader|class|me.maxct.blackart.creativetab.CreativeTabsLoader
+      @|me/maxct/blackart/item/ItemGoldenEgg.java|344|355|tabBlackart|field|me.maxct.blackart.creativetab.CreativeTabsLoader|tabBlackart
+   Method End: ItemGoldenEgg()V
+Class End  : me.maxct.blackart.item.ItemGoldenEgg
+endProcessing me/maxct/blackart/item/ItemGoldenEgg.java
+
+processing me/maxct/blackart/item/ItemLoader.java
+@|me/maxct/blackart/item/ItemLoader.java|8|30|me.maxct.blackart.item|package|me.maxct.blackart.item|(file)
+Class Start: me.maxct.blackart.item.ItemLoader
+   @|me/maxct/blackart/item/ItemLoader.java|640|653|ItemGoldenEgg|class|me.maxct.blackart.item.ItemGoldenEgg
+   @|me/maxct/blackart/item/ItemLoader.java|654|663|goldenEgg|field|me.maxct.blackart.item.ItemLoader|goldenEgg|
+   @|me/maxct/blackart/item/ItemLoader.java|670|683|ItemGoldenEgg|class|me.maxct.blackart.item.ItemGoldenEgg
+   Method Start: ItemLoader(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me/maxct/blackart/item/ItemLoader.java|699|709|ItemLoader|method|me.maxct.blackart.item.ItemLoader|ItemLoader|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|me/maxct/blackart/item/ItemLoader.java|710|735|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|me/maxct/blackart/item/ItemLoader.java|736|741|event|param|me.maxct.blackart.item.ItemLoader|ItemLoader|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|me/maxct/blackart/item/ItemLoader.java|752|760|register|method|me.maxct.blackart.item.ItemLoader|register|(Lnet/minecraft/item/Item;Ljava/lang/String;)V
+      @|me/maxct/blackart/item/ItemLoader.java|761|770|goldenEgg|field|me.maxct.blackart.item.ItemLoader|goldenEgg
+   Method End: ItemLoader(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: registerRenders()V
+      @|me/maxct/blackart/item/ItemLoader.java|845|860|registerRenders|method|me.maxct.blackart.item.ItemLoader|registerRenders|()V
+      @|me/maxct/blackart/item/ItemLoader.java|872|886|registerRender|method|me.maxct.blackart.item.ItemLoader|registerRender|(Lnet/minecraft/item/Item;)V
+      @|me/maxct/blackart/item/ItemLoader.java|887|896|goldenEgg|field|me.maxct.blackart.item.ItemLoader|goldenEgg
+   Method End: registerRenders()V
+   Method Start: register(Lnet/minecraft/item/Item;Ljava/lang/String;)V
+      @|me/maxct/blackart/item/ItemLoader.java|930|938|register|method|me.maxct.blackart.item.ItemLoader|register|(Lnet/minecraft/item/Item;Ljava/lang/String;)V
+      @|me/maxct/blackart/item/ItemLoader.java|939|943|Item|class|net.minecraft.item.Item
+      @|me/maxct/blackart/item/ItemLoader.java|944|948|item|param|me.maxct.blackart.item.ItemLoader|register|(Lnet/minecraft/item/Item;Ljava/lang/String;)V|item|0
+      @|me/maxct/blackart/item/ItemLoader.java|950|956|String|class|java.lang.String
+      @|me/maxct/blackart/item/ItemLoader.java|957|961|name|param|me.maxct.blackart.item.ItemLoader|register|(Lnet/minecraft/item/Item;Ljava/lang/String;)V|name|1
+      @|me/maxct/blackart/item/ItemLoader.java|972|984|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|me/maxct/blackart/item/ItemLoader.java|985|997|registerItem|method|net.minecraftforge.fml.common.registry.GameRegistry|registerItem|(Lnet/minecraft/item/Item;Ljava/lang/String;)V
+      @|me/maxct/blackart/item/ItemLoader.java|998|1002|item|param|me.maxct.blackart.item.ItemLoader|register|(Lnet/minecraft/item/Item;Ljava/lang/String;)V|item|0
+      @|me/maxct/blackart/item/ItemLoader.java|1004|1008|name|param|me.maxct.blackart.item.ItemLoader|register|(Lnet/minecraft/item/Item;Ljava/lang/String;)V|name|1
+   Method End: register(Lnet/minecraft/item/Item;Ljava/lang/String;)V
+   Method Start: registerRender(Lnet/minecraft/item/Item;)V
+      @|me/maxct/blackart/item/ItemLoader.java|1069|1083|registerRender|method|me.maxct.blackart.item.ItemLoader|registerRender|(Lnet/minecraft/item/Item;)V
+      @|me/maxct/blackart/item/ItemLoader.java|1084|1088|Item|class|net.minecraft.item.Item
+      @|me/maxct/blackart/item/ItemLoader.java|1089|1093|item|param|me.maxct.blackart.item.ItemLoader|registerRender|(Lnet/minecraft/item/Item;)V|item|0
+      @|me/maxct/blackart/item/ItemLoader.java|1104|1110|String|class|java.lang.String
+      @|me/maxct/blackart/item/ItemLoader.java|1118|1126|GameData|class|net.minecraftforge.fml.common.registry.GameData
+      @|me/maxct/blackart/item/ItemLoader.java|1127|1142|getItemRegistry|method|net.minecraftforge.fml.common.registry.GameData|getItemRegistry|()Lnet/minecraftforge/fml/common/registry/FMLControlledNamespacedRegistry;
+      @|me/maxct/blackart/item/ItemLoader.java|1145|1161|getNameForObject|method|net.minecraft.util.RegistryNamespaced|getNameForObject|(Ljava/lang/Object;)Ljava/lang/Object;
+      @|me/maxct/blackart/item/ItemLoader.java|1162|1166|item|param|me.maxct.blackart.item.ItemLoader|registerRender|(Lnet/minecraft/item/Item;)V|item|0
+      @|me/maxct/blackart/item/ItemLoader.java|1168|1176|toString|method|java.lang.Object|toString|()Ljava/lang/String;
+      @|me/maxct/blackart/item/ItemLoader.java|1188|1199|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|me/maxct/blackart/item/ItemLoader.java|1200|1230|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/resources/model/ModelResourceLocation;)V
+      @|me/maxct/blackart/item/ItemLoader.java|1231|1235|item|param|me.maxct.blackart.item.ItemLoader|registerRender|(Lnet/minecraft/item/Item;)V|item|0
+      @|me/maxct/blackart/item/ItemLoader.java|1244|1265|ModelResourceLocation|class|net.minecraft.client.resources.model.ModelResourceLocation
+   Method End: registerRender(Lnet/minecraft/item/Item;)V
+Class End  : me.maxct.blackart.item.ItemLoader
+endProcessing me/maxct/blackart/item/ItemLoader.java
+

@@ -1,0 +1,12 @@
+Symbol range map extraction starting
+Processing 10 files
+processing me/maxct/blackart/BlackArt.java
+processing me/maxct/blackart/block/BlockExpOre.java
+processing me/maxct/blackart/block/BlockLoader.java
+processing me/maxct/blackart/client/ClientProxy.java
+processing me/maxct/blackart/client/ItemRenderLoader.java
+processing me/maxct/blackart/common/CommonProxy.java
+processing me/maxct/blackart/creativetab/CreativeTabsBlackart.java
+processing me/maxct/blackart/creativetab/CreativeTabsLoader.java
+processing me/maxct/blackart/item/ItemGoldenEgg.java
+processing me/maxct/blackart/item/ItemLoader.java

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "blackart",
+  "name": "Blackart Mod",
+  "description": "A OW-like blackart mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/imaxct/blackart",
+  "updateUrl": "https://github.com/imaxct/blackart",
+  "authorList": ["imaxct(maxct)"],
+  "credits": "maxct?",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
